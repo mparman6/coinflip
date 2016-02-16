@@ -1,0 +1,18 @@
+Trading system OOP
+
+What are the objects (nouns/things) that are in a trading system program?
+- system itself
+
+What are the methods(actions/verbs) that are in the system object?
+- enter
+- sell 
+- analyze data
+- calculate (position sizing, ranking, ATR)
+- download data
+
+What are the properties(data, adjectives) that are in the system object?
+- current positions
+  - position sizes
+  - rankings
+- future orders
+- 
